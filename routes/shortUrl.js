@@ -1,4 +1,4 @@
-// THIS IS THE MOST DEVIOUS STUFF I'VE SEEN ISTG - why is there no actual instructions in the page goodsir?
+// THIS IS THE MOST DEVIOUS STUFF I'VE MADE ISTG - why is there no actual instructions in the page goodsir?
 
 const router = require("express").Router();
 const { URL } = require("url");
